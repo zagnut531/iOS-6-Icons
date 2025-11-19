@@ -18,6 +18,6 @@ I used iFile to grab the icons straight from my CoolBooted iPad 4 and iPod touch
 
 # Why?
 
-![My collection vs Modern6SE](My collection vs Modern6SE.jpg)
+![My collection vs Modern6SE](My_collection_vs_Modern6SE.jpg)
 
 I'm sick and tired of seeing people use the wrong icons in their setups. They use fake resources like Modern6SE, but most of the icons are wrong! Just look at the image comparing mine with Modern6SE. That's why I created this collection. So people can use the right icons. I hope this helps anyone making an iOS 6 setup.
