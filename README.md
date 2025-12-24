@@ -10,8 +10,7 @@ Please give credit to [u/Ape2002huh](https://www.reddit.com/user/Ape2002huh/) fo
 
 As well, there are 3rd-party icons like Crunchyroll and ALDI (good luck finding them on the internet).
 
-[YouTube Channel]
-(https://youtube.com/@prfmzagnut)
+[YouTube Channel](https://youtube.com/@prfmzagnut)
 
 [Buy Me A Coffee](https://buymeacoffee.com/gabrielev)
 
