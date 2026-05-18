@@ -18,6 +18,9 @@ All icons except the 3rd party icons belong to Apple Inc. Obviously.
 
 [Website](https://ios6iconpack.wordpress.com)
 
+# Guide
+https://www.reddit.com/r/Skeuomorphism/s/6nT0uOYMhe
+
 # How?
 
 I used iFile to grab the icons straight from my CoolBooted iPad 4 and iPod touch 5. I did each one manually, so it took forever.
