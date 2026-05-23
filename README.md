@@ -19,7 +19,7 @@ All icons except the 3rd party icons belong to Apple Inc. Obviously.
 [Website](https://ios6iconpack.wordpress.com)
 
 # Guide
-https://www.reddit.com/r/Skeuomorphism/s/6nT0uOYMhe
+Please use [this guide](https://www.reddit.com/r/Skeuomorphism/s/6nT0uOYMhe) for name changes and more.
 
 # How?
 
