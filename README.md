@@ -4,7 +4,7 @@ Welcome to my iOS 6 Icon collection! A resource for reference and setup makers!
 
 These icons are all in original resolution and .png. All the icons have no changes to the original. No weird-looking recreations. There are also icons already cropped and ready to use for your convenience.
 
-There’s also first party Redditor-made icons for apps that didn’t exist then, like Fitness. 
+There’s also first party Redditor-made icons for apps that didn’t exist then, like Fitness. I have also created a folder containing internal app icons. They have a huge variety, so feel free to use them for whatever you want.
 
 Please give credit to [u/Ape2002huh](https://www.reddit.com/user/Ape2002huh/) for creating the Colgate, Apple Support, Apple Music for Artists, Clips, Apple Vision Pro, Magnifier, and Freeform icons, and [u/kdfjkw4](https://www.reddit.com/user/kdfjkw4/) for creating the Music Classical icon if you use them in your pack.
 
